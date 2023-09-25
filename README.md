@@ -26,6 +26,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adhammahmoud0163@gmail.com)](mailto:adhammahmoud0163@gmail.com)
 ### 🛠 &nbsp;Tech Stack
 
+<img alt="java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -38,7 +39,6 @@
 
 <p align = "left">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img alt="java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
   <img alt="Object Oriented Programming" src="https://img.shields.io/badge/Object%20Oriented%20Programming-EE4C2C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-FF6B6B?style=flat-square&logo=treehouse&logoColor=white" />
   <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-0081CB?style=flat-square&logo=code&logoColor=white" />
