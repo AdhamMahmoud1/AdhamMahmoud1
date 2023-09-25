@@ -34,7 +34,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
-<p>
+<p align = "left">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Object Oriented Programming" src="https://img.shields.io/badge/Object%20Oriented%20Programming-EE4C2C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-FF6B6B?style=flat-square&logo=treehouse&logoColor=white" />
