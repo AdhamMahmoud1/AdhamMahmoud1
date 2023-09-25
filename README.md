@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Ahmed+Tarek!;I'm+a+Backend Developer;Welcome+to+my+profile!" style="color:mix" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Adham+Mahmoud!;I'm+a+Backend Developer;Welcome+to+my+profile!" style="color:mix" />
 </p>
 
 
