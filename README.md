@@ -5,6 +5,9 @@
   Welcome to "Adham Mahmoud" 's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Ahmed+Tarek!;I'm+a+Backend Developer;Welcome+to+my+profile!" style="color:mix" />
+</p>
 
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/black.gif" width= 25% height=95px>
