@@ -13,8 +13,7 @@
 - 👨‍💻 I'm a Student at faculty of Computers and Artificial Intelligence - Cairo University.
 - 💬 Ask me about my experience with Java, JavaScript, Python, C++, OOP, and Data Structures.
 - 💬 Ask me about my experience with mySQL, MS SQL, JDBC, Swing, Spring, Spring Boot , and Maven, or anything related to java and backend development.
-- 💬 Little exp
-
+- 💬 Little experience with HTML5, and CSS3.
 
 
 
@@ -22,6 +21,7 @@
 
 <a href="https://www.linkedin.com/in/adham-mahmoud-a7a605232/" target="_blank"><img src="https://img.shields.io/badge/-Adham%20Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/AdhamMahmoud1" target="_blank"><img src="https://img.shields.io/badge/-Adham%20Mahmoud-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omarahmed121998@gmail.com)](mailto:adhammahmoud0163@gmail.com)
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
