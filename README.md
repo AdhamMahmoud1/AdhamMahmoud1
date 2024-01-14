@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Adham+Mahmoud!;I'm+a+Backend Developer;Welcome+to+my+profile!" style="color:mix" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Adham+Mahmoud!;I'm+a+Software Engineer Student;Welcome+to+my+profile!" style="color:mix" />
 </p>
 
 
@@ -14,7 +14,7 @@
 
 - 🏢 I'm a Java Developer 
 - 👨‍💻 I'm a Student at faculty of Computers and Artificial Intelligence - Cairo University.
-- 💬 Ask me about my experience with Java, JavaScript, Python, C++, OOP, and Data Structures.
+- 💬 Ask me about my experience with Java, JavaScript, Python, C++, c#, OOP, Data Structures, and Algorithms.
 - 💬 Ask me about my experience with mySQL, MS SQL, JDBC, Swing, Spring, Spring Boot , and Maven, or anything related to java and backend development.
 - 💬 Little experience with HTML5, and CSS3.
 
